@@ -1,0 +1,18 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+
+body {
+
+    background-color: rgb(97, 141, 158);
+    color: white;
+    min-height: 100vh;
+}
+
+header {
+
+    font-size: 2rem;
+}
